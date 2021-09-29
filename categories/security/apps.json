@@ -15,17 +15,15 @@
             "https://dashboard.snapcraft.io/site_media/appmedia/2021/05/image_2021-05-15_212635.png"
         ],
         "contact": {
-            "email": "info@rabbit-company.com",
-            "discord": "https://discord.gg/hUNymXX"
+            "Email": "info@rabbit-company.com",
+            "Discord": "https://discord.gg/hUNymXX"
         },
         "donations": {
-            "website": "https://github.com/sponsors/Rabbit-Company",
-            "opencollective": "https://opencollective.com/rabbit-company",
-            "liberapay": "https://liberapay.com/RabbitCompany",
-            "cryptocurrencies": {
-                "Bitcoin": "3PX1UeQpvnfU8HMPzWh73ksNsrTQuCqMyh",
-                "Ethereum": "0x16620E8f37520E25CED7915A4f538b97Fcd3E76C"
-            }
+            "Github": "https://github.com/sponsors/Rabbit-Company",
+            "Open Collective": "https://opencollective.com/rabbit-company",
+            "Liberapay": "https://liberapay.com/RabbitCompany",
+            "Bitcoin": "3PX1UeQpvnfU8HMPzWh73ksNsrTQuCqMyh",
+            "Ethereum": "0x16620E8f37520E25CED7915A4f538b97Fcd3E76C"
         },
         "os": {
             "windows": {
