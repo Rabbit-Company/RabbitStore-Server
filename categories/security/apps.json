@@ -26,7 +26,7 @@
             "Ethereum": "0x16620E8f37520E25CED7915A4f538b97Fcd3E76C"
         },
         "os": {
-            "windows": {
+            "Windows": {
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "versions": {
@@ -36,7 +36,7 @@
                     }
                 }
             },
-            "linux": {
+            "Linux": {
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "versions": {
@@ -50,7 +50,7 @@
                     }
                 }
             },
-            "android": {
+            "Android": {
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Android",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Android/issues",
                 "versions": {
@@ -60,7 +60,7 @@
                     }
                 }
             },
-            "browserextension": {
+            "Browser Extension": {
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Browser-Extension",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Browser-Extension/issues",
                 "versions": {
