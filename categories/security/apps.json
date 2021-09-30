@@ -29,10 +29,11 @@
             "Windows": {
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
+                "microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
                 "versions": {
                     "4.0.1": {
                         "changelog": "Updated:<ul><li>Electron<li>German language<li>Polish language</ul>",
-                        "exe": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.0.1/passky-4.0.1.Setup.exe"
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.0.1/passky-4.0.1.Setup.exe"
                     }
                 }
             },
@@ -53,21 +54,23 @@
             "Android": {
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Android",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Android/issues",
+                "googleplay": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
                 "versions": {
                     "4.0.1": {
                         "changelog": "Added:<ul><li>Web files are now bundled in application<li>Removed unused dependencies</ul>Updated:<ul><li>German language<li>Polish language</ul>",
-                        "apk": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v4.0.1/passky-4.0.1.apk"
+                        "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v4.0.1/passky-4.0.1.apk"
                     }
                 }
             },
             "Browser Extension": {
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Browser-Extension",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Browser-Extension/issues",
+                "chromewebstore": "https://chrome.google.com/webstore/detail/passky/ngncpgfjhnkgfcjamgljadegplonbihi",
+                "firefoxaddons": "https://addons.mozilla.org/en-US/firefox/addon/passky",
                 "versions": {
                     "4.0.1": {
                         "changelog": "Added:<ul><li>Prevent users to access development tools (inspect elements, console...)</ul>Updated:<ul><li>German language<li>Polish language</ul>",
-                        "chromium": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.0.1/passky-4.0.1.zip",
-                        "firefox": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.0.1/passky-4.0.1.zip"
+                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.0.1/passky-4.0.1.zip"
                     }
                 }
             }
