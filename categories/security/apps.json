@@ -44,11 +44,7 @@
                 "versions": {
                     "4.0.1": {
                         "changelog": "Updated:<ul><li>Electron<li>German language<li>Polish language</ul>",
-                        "deb": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.0.1/passky_4.0.1_amd64.deb",
-                        "rpm": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.0.1/Passky-4.0.1-1.x86_64.rpm",
-                        "snap": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.0.1/passky_4.0.1_amd64.snap",
-                        "appimage": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.0.1/passky-4.0.1.AppImage",
-                        "ebuild": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.0.1/passky-4.0.1.ebuild"
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v4.0.1"
                     }
                 }
             },
