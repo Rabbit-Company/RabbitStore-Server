@@ -1,1 +1,85 @@
 # RabbitStore-Server
+
+Official domains for clients:
+- https://rabbitstore.net
+- https://rabbitstore.org
+
+Rabbit Store is still work in progress, but you can already submit your application here.
+
+Example:
+```json
+    "com.rabbit-company.passky": {
+        "name": "Passky",
+        "icon": "https://raw.githubusercontent.com/Rabbit-Company/Passky-Website/main/images/logo.png",
+        "website": "https://passky.org",
+        "developer": "Rabbit Company LLC",
+        "license": "GPL-3.0",
+        "description": {
+            "short": "Simple, modern, open source and secure password manager",
+            "long": "<h1>What is Passky?</h1><p>Passky is simple, modern, lightweight, open source and secure password manager.</p><h1>How Much Does it Cost?</h1><p>Passky is open-source. This means that anyone can download it, dig into its code, and customize it to their liking. Using Passky doesn’t require an upfront cost or monthly subscription. It’s completely free to download and can be hosted by anyone who has the space to do so.</p><p>When we launched Passky, we setup two servers, each holding up to 1,000 passwords for 100 users apiece. These servers are currently open for new users. But only the first two-hundred people to sign up will get access. Possible future servers are contingent upon a number of factors. So, if you want access to the best, open-source password manager on the market, now is the time to join.</p><h1>How Does Passky Work?</h1><p>Some people are hesitant to use a password manager because they fear that it could leave them vulnerable to hackers and other malicious actors. But once you understand the way Passky works, you’ll quickly realize that using a password manager like Passky is far more secure than opting for a single password across all your accounts.</p><p>When you save your account information to Passky, all sensitive data is fully encrypted. This means that your sensitive data cannot be accessed by anyone at Passky or by any potential hackers. If someone did access your passwords, they’d only be able to see an encrypted version of it that’s useless without your master key.</p><p>So, what is your master key? It’s your own personal password – the one password you need to unlock all other passwords. When you try to access your e-mail or another password protected site, Passky will pull your encrypted password from our server. Then, you’ll input your master password, and it will decrypt the password. So, you’ll only ever need to remember your master password. It will effortlessly unlock every other password you could want.</p><h1>How Secure is Passky?</h1><p>Passky simplifies your digital life and solves your password problem. All you’ll ever need to do is remember a single, ultra-secure password that includes uppercase letters, lowercase letters, numbers, and special characters. Once you’ve got that written down in your wallet or purse (or buried in your memory), you’ll get the benefit of secure passwords across your online accounts without having to memorize dozens of codewords. This makes it one of the most secure ways to protect your online identity.</p><p>But Passky takes security a step further. We’ve implemented a brute force mitigation system that locks out any user who inputs the wrong password too many times. By stopping login attempts for a set time and warning you about an attempted breach, you’ll have time to secure your account by creating a new password or taking other measures.</p>"
+        },
+        "images": [
+            "https://dashboard.snapcraft.io/site_media/appmedia/2021/05/passky1.png",
+            "https://dashboard.snapcraft.io/site_media/appmedia/2021/05/passky2.png",
+            "https://dashboard.snapcraft.io/site_media/appmedia/2021/05/image_2021-05-15_212635.png"
+        ],
+        "contacts": {
+            "Email": "info@rabbit-company.com",
+            "Discord": "https://discord.gg/hUNymXX"
+        },
+        "donations": {
+            "Github": "https://github.com/sponsors/Rabbit-Company",
+            "Open Collective": "https://opencollective.com/rabbit-company",
+            "Liberapay": "https://liberapay.com/RabbitCompany",
+            "Bitcoin": "3PX1UeQpvnfU8HMPzWh73ksNsrTQuCqMyh",
+            "Ethereum": "0x16620E8f37520E25CED7915A4f538b97Fcd3E76C"
+        },
+        "os": {
+            "Windows": {
+                "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
+                "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
+                "microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
+                "versions": {
+                    "4.0.1": {
+                        "changelog": "Updated:<ul><li>Electron<li>German language<li>Polish language</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.0.1/passky-4.0.1.Setup.exe"
+                    }
+                }
+            },
+            "Linux": {
+                "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
+                "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
+                "snapcraft": "https://snapcraft.io/passky",
+                "versions": {
+                    "4.0.1": {
+                        "changelog": "Updated:<ul><li>Electron<li>German language<li>Polish language</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v4.0.1"
+                    }
+                }
+            },
+            "Android": {
+                "sourcecode": "https://github.com/Rabbit-Company/Passky-Android",
+                "issuetracker": "https://github.com/Rabbit-Company/Passky-Android/issues",
+                "googleplay": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
+                "versions": {
+                    "4.0.1": {
+                        "changelog": "Added:<ul><li>Web files are now bundled in application<li>Removed unused dependencies</ul>Updated:<ul><li>German language<li>Polish language</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v4.0.1/passky-4.0.1.apk"
+                    }
+                }
+            },
+            "Browser Extension": {
+                "sourcecode": "https://github.com/Rabbit-Company/Passky-Browser-Extension",
+                "issuetracker": "https://github.com/Rabbit-Company/Passky-Browser-Extension/issues",
+                "chromewebstore": "https://chrome.google.com/webstore/detail/passky/ngncpgfjhnkgfcjamgljadegplonbihi",
+                "firefoxaddons": "https://addons.mozilla.org/en-US/firefox/addon/passky",
+                "versions": {
+                    "4.0.1": {
+                        "changelog": "Added:<ul><li>Prevent users to access development tools (inspect elements, console...)</ul>Updated:<ul><li>German language<li>Polish language</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.0.1/passky-4.0.1.zip"
+                    }
+                }
+            }
+        }
+    }
+```
