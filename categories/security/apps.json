@@ -64,6 +64,7 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Browser-Extension/issues",
                 "chromewebstore": "https://chrome.google.com/webstore/detail/passky/ngncpgfjhnkgfcjamgljadegplonbihi",
                 "firefoxaddons": "https://addons.mozilla.org/en-US/firefox/addon/passky",
+                "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
                     "4.0.1": {
                         "changelog": "Added:<ul><li>Prevent users to access development tools (inspect elements, console...)</ul>Updated:<ul><li>German language<li>Polish language</ul>",
