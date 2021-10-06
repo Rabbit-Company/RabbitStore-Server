@@ -71,6 +71,17 @@
                         "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.0.1/passky-4.0.1.zip"
                     }
                 }
+            },
+            "Website": {
+              "sourcecode": "https://github.com/Rabbit-Company/Passky-Website",
+              "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
+              "website": "https://passky.org",
+              "versions": {
+                "4.0.1": {
+                  "changelog": "Added:<ul><li>Prevent users to access development tools (inspect elements, console...)</ul>Updated:<ul><li>German language<li>Polish language</ul>",
+                  "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v4.0.1.zip"
+                }
+              }
             }
         }
     }
