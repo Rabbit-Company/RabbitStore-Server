@@ -31,6 +31,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
                 "versions": {
+                    "4.1.1": {
+                        "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.1.1/passky-4.1.1.Setup.exe"
+                    },
                     "4.0.1": {
                         "changelog": "Updated:<ul><li>Electron<li>German language<li>Polish language</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.0.1/passky-4.0.1.Setup.exe"
@@ -42,6 +46,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "snapcraft": "https://snapcraft.io/passky",
                 "versions": {
+                    "4.1.1": {
+                        "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v4.1.1"
+                    },
                     "4.0.1": {
                         "changelog": "Updated:<ul><li>Electron<li>German language<li>Polish language</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v4.0.1"
@@ -53,6 +61,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Android/issues",
                 "googleplay": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
                 "versions": {
+                    "4.1.1": {
+                        "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v4.1.1/passky-4.1.1.apk"
+                    },
                     "4.0.1": {
                         "changelog": "Added:<ul><li>Web files are now bundled in application<li>Removed unused dependencies</ul>Updated:<ul><li>German language<li>Polish language</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v4.0.1/passky-4.0.1.apk"
@@ -66,6 +78,10 @@
                 "firefoxaddons": "https://addons.mozilla.org/en-US/firefox/addon/passky",
                 "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
+                    "4.1.1": {
+                        "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.1.1/passky-4.1.1.zip"
+                    },
                     "4.0.1": {
                         "changelog": "Added:<ul><li>Prevent users to access development tools (inspect elements, console...)</ul>Updated:<ul><li>German language<li>Polish language</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.0.1/passky-4.0.1.zip"
@@ -77,6 +93,10 @@
               "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
               "website": "https://passky.org",
               "versions": {
+                "4.1.1": {
+                    "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
+                    "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v4.1.1.zip"
+                },
                 "4.0.1": {
                   "changelog": "Added:<ul><li>Prevent users to access development tools (inspect elements, console...)</ul>Updated:<ul><li>German language<li>Polish language</ul>",
                   "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v4.0.1.zip"
