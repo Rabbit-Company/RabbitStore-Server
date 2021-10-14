@@ -76,6 +76,7 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Browser-Extension/issues",
                 "chromewebstore": "https://chrome.google.com/webstore/detail/passky/ngncpgfjhnkgfcjamgljadegplonbihi",
                 "firefoxaddons": "https://addons.mozilla.org/en-US/firefox/addon/passky",
+                "operaaddons": "https://addons.opera.com/en/extensions/details/passky/",
                 "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
                     "4.1.1": {
