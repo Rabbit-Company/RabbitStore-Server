@@ -8,7 +8,7 @@ assignees: zigazajc007
 ---
 
 <!--
-Application ID is made with ltd.domain.appName
+Application ID is made with tld.domain.appName
 Example: com.rabbit-company.passky
 -->
 
