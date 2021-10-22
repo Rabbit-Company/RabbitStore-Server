@@ -48,6 +48,16 @@
                     }
                 }
             },
+            "Mac OS": {
+                "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
+                "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
+                "versions": {
+                    "4.1.1": {
+                        "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.1.1/passky-4.1.1-x64.dmg"
+                    }
+                }
+            },
             "Android": {
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Android",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Android/issues",
