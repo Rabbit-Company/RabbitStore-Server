@@ -31,6 +31,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
                 "versions": {
+                    "4.2.0": {
+                        "changelog": "Added:<ul><li>NordPass (Import and Export)<li>Dashlane (Import and Export)</ul>Fixed:<ul><li>Import<li>LastPass export<li>Other small visual bugs</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.2.0/passky-4.2.0.Setup.exe"
+                    },
                     "4.1.1": {
                         "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.1.1/passky-4.1.1.Setup.exe"
@@ -42,6 +46,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "snapcraft": "https://snapcraft.io/passky",
                 "versions": {
+                    "4.2.0": {
+                        "changelog": "Added:<ul><li>NordPass (Import and Export)<li>Dashlane (Import and Export)</ul>Fixed:<ul><li>Import<li>LastPass export<li>Other small visual bugs</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v4.2.0"
+                    },
                     "4.1.1": {
                         "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v4.1.1"
@@ -52,6 +60,10 @@
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "versions": {
+                    "4.2.0": {
+                        "changelog": "Added:<ul><li>NordPass (Import and Export)<li>Dashlane (Import and Export)</ul>Fixed:<ul><li>Import<li>LastPass export<li>Other small visual bugs</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.2.0/passky-4.2.0-x64.dmg"
+                    },
                     "4.1.1": {
                         "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.1.1/passky-4.1.1-x64.dmg"
@@ -64,6 +76,10 @@
                 "googleplay": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
                 "galaxystore": "https://galaxy.store/passky",
                 "versions": {
+                    "4.2.0": {
+                        "changelog": "Added:<ul><li>NordPass (Import and Export)<li>Dashlane (Import and Export)</ul>Fixed:<ul><li>Import<li>LastPass export<li>Other small visual bugs</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v4.1.1/passky-4.1.1.apk"
+                    },
                     "4.1.1": {
                         "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v4.1.1/passky-4.1.1.apk"
@@ -78,6 +94,10 @@
                 "operaaddons": "https://addons.opera.com/en/extensions/details/passky/",
                 "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
+                    "4.2.0": {
+                        "changelog": "Added:<ul><li>NordPass (Import and Export)<li>Dashlane (Import and Export)</ul>Fixed:<ul><li>Import<li>LastPass export<li>Other small visual bugs</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.2.0/passky-4.2.0.zip"
+                    },
                     "4.1.1": {
                         "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.1.1/passky-4.1.1.zip"
@@ -89,6 +109,10 @@
               "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
               "website": "https://passky.org",
               "versions": {
+                "4.2.0": {
+                    "changelog": "Added:<ul><li>NordPass (Import and Export)<li>Dashlane (Import and Export)</ul>Fixed:<ul><li>Import<li>LastPass export<li>Other small visual bugs</ul>",
+                    "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v4.2.0.zip"
+                },
                 "4.1.1": {
                     "changelog": "Added:<ul><li>Lastpass import and export now include messages</ul>Changed:<ul><li>Lastpass import now works better<li>Browser extensions will now use Chrome storage instead of localStorage<li>You can now use spaces in OTP input<li>All passwords and messages are now stored encrypted on client-side</ul>Removed:<ul><li>All password managers that have not been yet implemented for import and export</ul>",
                     "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v4.1.1.zip"
