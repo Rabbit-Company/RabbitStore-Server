@@ -87,7 +87,7 @@
             "Website": {
               "sourcecode": "https://github.com/Rabbit-Company/Passky-Website",
               "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
-              "website": "https://passky.org",
+              "website": "https://vault.passky.org",
               "versions": {
                 "4.3.0": {
                     "changelog": "Improved:<ul><li>Imports from every password manager</ul>Added:<ul><li>Import for 1Password<li>Import and Export for KeePass XC<li>Import and Export for Keeper</ul>",
