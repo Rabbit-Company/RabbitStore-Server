@@ -31,6 +31,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
                 "versions": {
+                    "5.0.0": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v5.0.0/Passky.Setup.5.0.0.exe"
+                    },
                     "4.3.0": {
                         "changelog": "Improved:<ul><li>Imports from every password manager</ul>Added:<ul><li>Import for 1Password<li>Import and Export for KeePass XC<li>Import and Export for Keeper</ul>Updated:<ul><li>Electron</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.3.0/Passky.Setup.4.3.0.exe"
@@ -42,6 +46,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "snapcraft": "https://snapcraft.io/passky",
                 "versions": {
+                    "5.0.0": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v5.0.0"
+                    },
                     "4.3.0": {
                         "changelog": "Improved:<ul><li>Imports from every password manager</ul>Added:<ul><li>Import for 1Password<li>Import and Export for KeePass XC<li>Import and Export for Keeper</ul>Updated:<ul><li>Electron</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v4.3.0"
@@ -52,6 +60,10 @@
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "versions": {
+                    "5.0.0": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v5.0.0/passky-5.0.0.dmg"
+                    },
                     "4.3.0": {
                         "changelog": "Improved:<ul><li>Imports from every password manager</ul>Added:<ul><li>Import for 1Password<li>Import and Export for KeePass XC<li>Import and Export for Keeper</ul>Updated:<ul><li>Electron</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.3.0/passky-4.3.0.dmg"
@@ -64,6 +76,10 @@
                 "googleplay": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
                 "galaxystore": "https://galaxy.store/passky",
                 "versions": {
+                    "5.0.0": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v5.0.0/passky-5.0.0.apk"
+                    },
                     "4.3.0": {
                         "changelog": "Improved:<ul><li>Imports from every password manager</ul>Added:<ul><li>Import for 1Password<li>Import and Export for KeePass XC<li>Import and Export for Keeper</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v4.3.0/passky-4.3.0.apk"
@@ -78,6 +94,10 @@
                 "operaaddons": "https://addons.opera.com/en/extensions/details/passky/",
                 "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
+                    "5.0.0": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v5.0.0/passky-5.0.0.zip"
+                    },
                     "4.3.0": {
                         "changelog": "Improved:<ul><li>Imports from every password manager</ul>Added:<ul><li>Import for 1Password<li>Import and Export for KeePass XC<li>Import and Export for Keeper</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v4.3.0/passky-4.3.0.zip"
@@ -85,15 +105,19 @@
                 }
             },
             "Website": {
-              "sourcecode": "https://github.com/Rabbit-Company/Passky-Website",
-              "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
-              "website": "https://vault.passky.org",
-              "versions": {
-                "4.3.0": {
-                    "changelog": "Improved:<ul><li>Imports from every password manager</ul>Added:<ul><li>Import for 1Password<li>Import and Export for KeePass XC<li>Import and Export for Keeper</ul>",
-                    "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v4.3.0.zip"
+                "sourcecode": "https://github.com/Rabbit-Company/Passky-Website",
+                "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
+                "website": "https://vault.passky.org",
+                "versions": {
+                    "5.0.0": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v5.0.0.zip"
+                    },
+                    "4.3.0": {
+                        "changelog": "Improved:<ul><li>Imports from every password manager</ul>Added:<ul><li>Import for 1Password<li>Import and Export for KeePass XC<li>Import and Export for Keeper</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v4.3.0.zip"
+                    }
                 }
-              }
             }
         }
     }
