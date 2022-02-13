@@ -1,7 +1,7 @@
 {
     "com.rabbit-company.passky": {
         "name": "Passky",
-        "icon": "https://raw.githubusercontent.com/Rabbit-Company/Passky-Website/main/images/logo.png",
+        "icon": "https://raw.githubusercontent.com/Rabbit-Company/Passky-Website/main/website/images/logo.png",
         "website": "https://passky.org",
         "developer": "Rabbit Company LLC",
         "license": "GPL-3.0",
@@ -94,6 +94,10 @@
                 "operaaddons": "https://addons.opera.com/en/extensions/details/passky/",
                 "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
+                    "6.0.0": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v6.0.0/passky-6.0.0.zip"
+                    },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v5.0.0/passky-5.0.0.zip"
@@ -109,6 +113,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
                 "website": "https://vault.passky.org",
                 "versions": {
+                    "6.0.0": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v6.0.0.zip"
+                    },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v5.0.0.zip"
