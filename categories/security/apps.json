@@ -31,6 +31,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
                 "versions": {
+                    "6.0.1": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>Updated:<ul><li>Electron</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.0.1/Passky.Setup.6.0.1.exe"
+                    },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v5.0.0/Passky.Setup.5.0.0.exe"
@@ -46,6 +50,10 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "snapcraft": "https://snapcraft.io/passky",
                 "versions": {
+                    "6.0.1": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>Updated:<ul><li>Electron</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v6.0.1"
+                    },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v5.0.0"
@@ -60,6 +68,10 @@
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "versions": {
+                    "6.0.1": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.1</ul>Updated:<ul><li>Electron</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.0.1/passky-6.0.1.dmg"
+                    },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v5.0.0/passky-5.0.0.dmg"
@@ -94,9 +106,9 @@
                 "operaaddons": "https://addons.opera.com/en/extensions/details/passky/",
                 "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
-                    "6.0.0": {
+                    "6.0.1": {
                         "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v6.0.0/passky-6.0.0.zip"
+                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v6.0.1/passky-6.0.1.zip"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
@@ -113,9 +125,9 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
                 "website": "https://vault.passky.org",
                 "versions": {
-                    "6.0.0": {
+                    "6.0.1": {
                         "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v6.0.0.zip"
+                        "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v6.0.1.zip"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
