@@ -88,6 +88,10 @@
                 "googleplay": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
                 "galaxystore": "https://galaxy.store/passky",
                 "versions": {
+                    "6.0.1": {
+                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.0.0/passky-6.0.0.apk"
+                    },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v5.0.0/passky-5.0.0.apk"
