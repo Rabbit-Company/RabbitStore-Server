@@ -31,9 +31,9 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
                 "versions": {
-                    "6.0.1": {
-                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>Updated:<ul><li>Electron</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.0.1/Passky.Setup.6.0.1.exe"
+                    "6.0.2": {
+                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.0.2/Passky.Setup.6.0.2.exe"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
@@ -50,9 +50,9 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "snapcraft": "https://snapcraft.io/passky",
                 "versions": {
-                    "6.0.1": {
-                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>Updated:<ul><li>Electron</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v6.0.1"
+                    "6.0.2": {
+                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v6.0.2"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
@@ -68,9 +68,9 @@
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "versions": {
-                    "6.0.1": {
-                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.1</ul>Updated:<ul><li>Electron</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.0.1/passky-6.0.1.dmg"
+                    "6.0.2": {
+                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.0.2/passky-6.0.2.dmg"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
@@ -88,9 +88,9 @@
                 "googleplay": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
                 "galaxystore": "https://galaxy.store/passky",
                 "versions": {
-                    "6.0.1": {
-                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v6.0.1/passky-6.0.1.apk"
+                    "6.0.2": {
+                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v6.0.2/passky-6.0.2.apk"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
@@ -110,9 +110,9 @@
                 "operaaddons": "https://addons.opera.com/en/extensions/details/passky/",
                 "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
-                    "6.0.1": {
-                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v6.0.1/passky-6.0.1.zip"
+                    "6.0.2": {
+                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v6.0.2/passky-6.0.2.zip"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
@@ -129,9 +129,9 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
                 "website": "https://vault.passky.org",
                 "versions": {
-                    "6.0.1": {
-                        "changelog": "Added:<ul><li>Support for Passky Server v6.0.0</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v6.0.1.zip"
+                    "6.0.2": {
+                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v6.0.2.zip"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
