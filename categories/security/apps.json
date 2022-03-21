@@ -16,7 +16,7 @@
         ],
         "contacts": {
             "Email": "info@rabbit-company.com",
-            "Discord": "https://discord.gg/hUNymXX"
+            "Discord": "https://discord.rabbit-company.com"
         },
         "donations": {
             "Github": "https://github.com/sponsors/Rabbit-Company",
@@ -87,6 +87,8 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Android/issues",
                 "googleplay": "https://play.google.com/store/apps/details?id=com.rabbitcompany.passky",
                 "galaxystore": "https://galaxy.store/passky",
+                "fdroid": "https://f-droid.org/en/packages/com.rabbitcompany.passky",
+                "aptoide": "https://passky.en.aptoide.com/app",
                 "versions": {
                     "6.0.2": {
                         "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
