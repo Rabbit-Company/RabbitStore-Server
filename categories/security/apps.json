@@ -68,9 +68,9 @@
                 "sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "versions": {
-                    "6.0.2": {
-                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.0.2/passky-6.0.2.dmg"
+                    "6.3.0": {
+                        "changelog": "Added:<ul><li>Website Icons can now be toggled</ul>Optimized:<ul><li>Visual performance of toggling buttons</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.3.0/passky-6.3.0.dmg"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
