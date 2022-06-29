@@ -31,9 +31,9 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
                 "versions": {
-                    "6.0.2": {
-                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.0.2/Passky.Setup.6.0.2.exe"
+                    "6.3.0": {
+                        "changelog": "Added:<ul><li>Website Icons can now be toggled</ul>Optimized:<ul><li>Visual performance of toggling buttons</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v6.3.0/Passky.Setup.6.3.0.exe"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
@@ -50,9 +50,9 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
                 "snapcraft": "https://snapcraft.io/passky",
                 "versions": {
-                    "6.0.2": {
-                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v6.0.2"
+                    "6.3.0": {
+                        "changelog": "Added:<ul><li>Website Icons can now be toggled</ul>Optimized:<ul><li>Visual performance of toggling buttons</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v6.3.0"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>Updated:<ul><li>Electron</ul>",
@@ -90,9 +90,9 @@
                 "fdroid": "https://f-droid.org/en/packages/com.rabbitcompany.passky",
                 "aptoide": "https://passky.en.aptoide.com/app",
                 "versions": {
-                    "6.0.2": {
-                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v6.0.2/passky-6.0.2.apk"
+                    "6.3.0": {
+                        "changelog": "Added:<ul><li>Website Icons can now be toggled</ul>Optimized:<ul><li>Visual performance of toggling buttons</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v6.3.0/passky-6.3.0.apk"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
@@ -113,8 +113,8 @@
                 "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
                     "6.0.2": {
-                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v6.0.2/passky-6.0.2.zip"
+                        "changelog": "Added:<ul><li>Website Icons can now be toggled</ul>Optimized:<ul><li>Visual performance of toggling buttons</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v6.3.0/passky-6.3.0.zip"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
@@ -131,9 +131,9 @@
                 "issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
                 "website": "https://vault.passky.org",
                 "versions": {
-                    "6.0.2": {
-                        "changelog": "Added:<ul><li>Indonesian, Korean and Ukrainian languages<li>Link to Crowdin for translations</ul>Updated:<ul><li>Hindi, Greek and Czech languages</ul>Fixed:<ul><li>Broken position with really long website links or usernames</ul>",
-                        "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v6.0.2.zip"
+                    "6.3.0": {
+                        "changelog": "Added:<ul><li>Website Icons can now be toggled</ul>Optimized:<ul><li>Visual performance of toggling buttons</ul>",
+                        "download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v6.3.0.zip"
                     },
                     "5.0.0": {
                         "changelog": "Added:<ul><li>Support for Passky Server v5.0.0<li>New login system<li>Toggle for auto search</ul>",
