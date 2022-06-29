@@ -112,7 +112,7 @@
                 "operaaddons": "https://addons.opera.com/en/extensions/details/passky/",
                 "edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
                 "versions": {
-                    "6.0.2": {
+                    "6.3.0": {
                         "changelog": "Added:<ul><li>Website Icons can now be toggled</ul>Optimized:<ul><li>Visual performance of toggling buttons</ul>",
                         "download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v6.3.0/passky-6.3.0.zip"
                     },
