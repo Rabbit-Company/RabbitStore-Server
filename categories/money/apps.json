@@ -1,1 +1,72 @@
-{}
+{
+	"com.rabbit-company.cryptobal": {
+		"name": "CryptoBal",
+		"icon": "https://raw.githubusercontent.com/Rabbit-Company/CryptoBal/main/website/images/logo.png",
+		"website": "https://cryptobal.info",
+		"developer": "Rabbit Company LLC",
+		"license": "GPL-3.0",
+		"description": {
+			"short": "Monitor your Crypto assets with style.",
+			"long": "<p>Monitor your Crypto assets with style.</p>"
+		},
+		"images": [
+			"https://raw.githubusercontent.com/Rabbit-Company/CryptoBal-Website/main/website/images/screenshots/1.png",
+			"https://raw.githubusercontent.com/Rabbit-Company/CryptoBal-Website/main/website/images/screenshots/2.png",
+			"https://raw.githubusercontent.com/Rabbit-Company/CryptoBal-Website/main/website/images/screenshots/3.png"
+		],
+		"contacts": {
+			"Email": "info@rabbit-company.com",
+			"Discord": "https://discord.rabbit-company.com"
+		},
+		"donations": {
+			"Github": "https://github.com/sponsors/Rabbit-Company",
+			"Open Collective": "https://opencollective.com/rabbit-company",
+			"Liberapay": "https://liberapay.com/RabbitCompany",
+			"Bitcoin": "bc1qjcj60rdve5nys72fy42f4yv6s8t34s7x3nh03d",
+			"Ethereum": "0xa4B2b80A4d5C577e1Ddb41096c2BD85D4A6e0bb7"
+		},
+		"os": {
+			"Windows": {
+				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
+				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
+				"versions": {
+					"1.0.0": {
+						"changelog": "First release",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v1.0.0/cryptobal_1.0.0_x64_en-US.msi"
+					}
+				}
+			},
+			"Linux": {
+				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
+				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
+				"versions": {
+					"1.0.0": {
+						"changelog": "First release",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/tag/v1.0.0"
+					}
+				}
+			},
+			"Mac OS": {
+				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
+				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
+				"versions": {
+					"1.0.0": {
+						"changelog": "First release",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v1.0.0/cryptobal_1.0.0_x64.dmg"
+					}
+				}
+			},
+			"Website": {
+				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Website",
+				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Website/issues",
+				"website": "https://cryptobal.info",
+				"versions": {
+					"1.0.0": {
+						"changelog": "First release",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Website/archive/refs/tags/v1.0.0.zip"
+					}
+				}
+			}
+		}
+	}
+}
