@@ -30,6 +30,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"2.0.0": {
+						"changelog": "Added support for more cryptocurrencies, updated chart.js, changed logo and fixed some bugs",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v2.0.0/cryptobal_2.0.0_x64_en-US.msi"
+					},
 					"1.0.0": {
 						"changelog": "First release",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v1.0.0/cryptobal_1.0.0_x64_en-US.msi"
@@ -40,6 +44,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"2.0.0": {
+						"changelog": "Added support for more cryptocurrencies, updated chart.js, changed logo and fixed some bugs",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/tag/v2.0.0"
+					},
 					"1.0.0": {
 						"changelog": "First release",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/tag/v1.0.0"
@@ -50,6 +58,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"2.0.0": {
+						"changelog": "Added support for more cryptocurrencies, updated chart.js, changed logo and fixed some bugs",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v2.0.0/cryptobal_2.0.0_x64.dmg"
+					},
 					"1.0.0": {
 						"changelog": "First release",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v1.0.0/cryptobal_1.0.0_x64.dmg"
@@ -61,6 +73,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Website/issues",
 				"website": "https://cryptobal.info",
 				"versions": {
+					"2.0.0": {
+						"changelog": "Added support for more cryptocurrencies, updated chart.js, changed logo and fixed some bugs",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Website/archive/refs/tags/v2.0.0.zip"
+					},
 					"1.0.0": {
 						"changelog": "First release",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Website/archive/refs/tags/v1.0.0.zip"
