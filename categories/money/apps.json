@@ -30,6 +30,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"2.0.1": {
+						"changelog": "Updated Tauri, Chart.js and TailwindCSS",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v2.0.1/cryptobal_2.0.1_x64_en-US.msi"
+					},
 					"2.0.0": {
 						"changelog": "Added support for more cryptocurrencies, updated chart.js, changed logo and fixed some bugs",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v2.0.0/cryptobal_2.0.0_x64_en-US.msi"
@@ -44,6 +48,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"2.0.1": {
+						"changelog": "Updated Tauri, Chart.js and TailwindCSS",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/tag/v2.0.1"
+					},
 					"2.0.0": {
 						"changelog": "Added support for more cryptocurrencies, updated chart.js, changed logo and fixed some bugs",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/tag/v2.0.0"
@@ -58,6 +66,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"2.0.1": {
+						"changelog": "Updated Tauri, Chart.js and TailwindCSS",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v2.0.1/cryptobal_2.0.1_x64.dmg"
+					},
 					"2.0.0": {
 						"changelog": "Added support for more cryptocurrencies, updated chart.js, changed logo and fixed some bugs",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v2.0.0/cryptobal_2.0.0_x64.dmg"
@@ -73,6 +85,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Website/issues",
 				"website": "https://cryptobal.info",
 				"versions": {
+					"2.0.1": {
+						"changelog": "Updated Tauri, Chart.js and TailwindCSS",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Website/archive/refs/tags/v2.0.1.zip"
+					},
 					"2.0.0": {
 						"changelog": "Added support for more cryptocurrencies, updated chart.js, changed logo and fixed some bugs",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Website/archive/refs/tags/v2.0.0.zip"
