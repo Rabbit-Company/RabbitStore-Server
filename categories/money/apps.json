@@ -30,6 +30,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"3.0.0": {
+						"changelog": "Added Coinbase, CoinCap, CoinGecko and Wazirx support. Escape button will now go back to the main menu. Fixed design and some small bugs.",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v3.0.0/cryptobal_3.0.0_x64_en-US.msi"
+					},
 					"2.0.1": {
 						"changelog": "Updated Tauri, Chart.js and TailwindCSS",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v2.0.1/cryptobal_2.0.1_x64_en-US.msi"
@@ -48,6 +52,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"3.0.0": {
+						"changelog": "Added Coinbase, CoinCap, CoinGecko and Wazirx support. Escape button will now go back to the main menu. Fixed design and some small bugs.",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/tag/v3.0.0"
+					},
 					"2.0.1": {
 						"changelog": "Updated Tauri, Chart.js and TailwindCSS",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/tag/v2.0.1"
@@ -66,6 +74,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"3.0.0": {
+						"changelog": "Added Coinbase, CoinCap, CoinGecko and Wazirx support. Escape button will now go back to the main menu. Fixed design and some small bugs.",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v3.0.0/cryptobal_3.0.0_x64.dmg"
+					},
 					"2.0.1": {
 						"changelog": "Updated Tauri, Chart.js and TailwindCSS",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v2.0.1/cryptobal_2.0.1_x64.dmg"
@@ -85,6 +97,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Website/issues",
 				"website": "https://cryptobal.info",
 				"versions": {
+					"3.0.0": {
+						"changelog": "Added Coinbase, CoinCap, CoinGecko and Wazirx support. Fixed design and some small bugs.",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Website/archive/refs/tags/v3.0.0.zip"
+					},
 					"2.0.1": {
 						"changelog": "Updated Tauri, Chart.js and TailwindCSS",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Website/archive/refs/tags/v2.0.1.zip"
