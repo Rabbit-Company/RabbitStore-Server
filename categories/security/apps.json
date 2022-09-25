@@ -31,6 +31,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
 				"microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
 				"versions": {
+					"7.1.0": {
+						"changelog": "Added:<ul><li>Auto detect language on first visit<li>Passwords can now be refreshed by clicking on the logo</ul>Improved:<ul><li>Client Authenticator</ul>Updated:<ul><li>Languages<li>Service Worker<li>JQuery<li>Tailwind</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v7.1.0/Passky.Setup.7.1.0.exe"
+					},
 					"7.0.0": {
 						"changelog": "Added:<ul><li>Nord theme<li>Option to see how many passwords your account can store</ul>Updated:<ul><li>Polish, Swedish and French languages<li>Service Worker<li>TailwindCSS</ul>Changed:<ul><li>Usernames now support underscore character</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v7.0.0/Passky.Setup.7.0.0.exe"
@@ -54,6 +58,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
 				"snapcraft": "https://snapcraft.io/passky",
 				"versions": {
+					"7.1.0": {
+						"changelog": "Added:<ul><li>Auto detect language on first visit<li>Passwords can now be refreshed by clicking on the logo</ul>Improved:<ul><li>Client Authenticator</ul>Updated:<ul><li>Languages<li>Service Worker<li>JQuery<li>Tailwind</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v7.1.0"
+					},
 					"7.0.0": {
 						"changelog": "Added:<ul><li>Nord theme<li>Option to see how many passwords your account can store</ul>Updated:<ul><li>Polish, Swedish and French languages<li>Service Worker<li>TailwindCSS</ul>Changed:<ul><li>Usernames now support underscore character</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v7.0.0"
@@ -76,6 +84,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
 				"versions": {
+					"7.1.0": {
+						"changelog": "Added:<ul><li>Auto detect language on first visit<li>Passwords can now be refreshed by clicking on the logo</ul>Improved:<ul><li>Client Authenticator</ul>Updated:<ul><li>Languages<li>Service Worker<li>JQuery<li>Tailwind</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v7.1.0/passky-7.1.0.dmg"
+					},
 					"7.0.0": {
 						"changelog": "Added:<ul><li>Nord theme<li>Option to see how many passwords your account can store</ul>Updated:<ul><li>Polish, Swedish and French languages<li>Service Worker<li>TailwindCSS</ul>Changed:<ul><li>Usernames now support underscore character</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v7.0.0/passky-7.0.0.dmg"
@@ -102,6 +114,10 @@
 				"fdroid": "https://f-droid.org/en/packages/com.rabbitcompany.passky",
 				"aptoide": "https://passky.en.aptoide.com/app",
 				"versions": {
+					"7.1.0": {
+						"changelog": "Added:<ul><li>Auto detect language on first visit<li>Passwords can now be refreshed by clicking on the logo</ul>Improved:<ul><li>Client Authenticator</ul>Updated:<ul><li>Languages<li>Service Worker<li>JQuery<li>Tailwind</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v7.1.0/passky-7.1.0.apk"
+					},
 					"7.0.0": {
 						"changelog": "Added:<ul><li>Nord theme<li>Option to see how many passwords your account can store</ul>Updated:<ul><li>Polish, Swedish and French languages<li>Service Worker<li>TailwindCSS</ul>Changed:<ul><li>Usernames now support underscore character</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Android/releases/download/v7.0.0/passky-7.0.0.apk"
@@ -128,6 +144,10 @@
 				"operaaddons": "https://addons.opera.com/en/extensions/details/passky/",
 				"edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
 				"versions": {
+					"7.1.0": {
+						"changelog": "Added:<ul><li>Auto detect language on first visit<li>Passwords can now be refreshed by clicking on the logo</ul>Improved:<ul><li>Client Authenticator</ul>Updated:<ul><li>Languages<li>Service Worker<li>JQuery<li>Tailwind</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v7.1.0/passky-7.1.0.zip"
+					},
 					"7.0.0": {
 						"changelog": "Added:<ul><li>Nord theme<li>Option to see how many passwords your account can store</ul>Updated:<ul><li>Polish, Swedish and French languages<li>Service Worker<li>TailwindCSS</ul>Changed:<ul><li>Usernames now support underscore character</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v7.0.0/passky-7.0.0.zip"
@@ -151,6 +171,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
 				"website": "https://vault.passky.org",
 				"versions": {
+					"7.1.0": {
+						"changelog": "Added:<ul><li>Auto detect language on first visit<li>Passwords can now be refreshed by clicking on the logo</ul>Improved:<ul><li>Client Authenticator</ul>Updated:<ul><li>Languages<li>Service Worker<li>JQuery<li>Tailwind</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v7.1.0.zip"
+					},
 					"7.0.0": {
 						"changelog": "Added:<ul><li>Nord theme<li>Option to see how many passwords your account can store</ul>Updated:<ul><li>Polish, Swedish and French languages<li>Service Worker<li>TailwindCSS</ul>Changed:<ul><li>Usernames now support underscore character</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v7.0.0.zip"
