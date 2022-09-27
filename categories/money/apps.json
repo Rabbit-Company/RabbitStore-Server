@@ -30,6 +30,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"3.0.1": {
+						"changelog": "Updated Tauri",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v3.0.1/cryptobal_3.0.1_x64_en-US.msi"
+					},
 					"3.0.0": {
 						"changelog": "Added Coinbase, CoinCap, CoinGecko and Wazirx support. Escape button will now go back to the main menu. Fixed design and some small bugs.",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v3.0.0/cryptobal_3.0.0_x64_en-US.msi"
@@ -52,6 +56,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"3.0.1": {
+						"changelog": "Updated Tauri",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/tag/v3.0.1"
+					},
 					"3.0.0": {
 						"changelog": "Added Coinbase, CoinCap, CoinGecko and Wazirx support. Escape button will now go back to the main menu. Fixed design and some small bugs.",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/tag/v3.0.0"
@@ -74,6 +82,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/CryptoBal-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Desktop/issues",
 				"versions": {
+					"3.0.1": {
+						"changelog": "Updated Tauri",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v3.0.1/cryptobal_3.0.1_x64.dmg"
+					},
 					"3.0.0": {
 						"changelog": "Added Coinbase, CoinCap, CoinGecko and Wazirx support. Escape button will now go back to the main menu. Fixed design and some small bugs.",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Desktop/releases/download/v3.0.0/cryptobal_3.0.0_x64.dmg"
@@ -97,6 +109,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/CryptoBal-Website/issues",
 				"website": "https://cryptobal.info",
 				"versions": {
+					"3.0.1": {
+						"changelog": "Updated Tauri",
+						"download": "https://github.com/Rabbit-Company/CryptoBal-Website/archive/refs/tags/v3.0.1.zip"
+					},
 					"3.0.0": {
 						"changelog": "Added Coinbase, CoinCap, CoinGecko and Wazirx support. Fixed design and some small bugs.",
 						"download": "https://github.com/Rabbit-Company/CryptoBal-Website/archive/refs/tags/v3.0.0.zip"
