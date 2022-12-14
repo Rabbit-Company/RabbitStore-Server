@@ -31,6 +31,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
 				"microsoftstore": "https://www.microsoft.com/en-us/p/passky/9nrcp6hppb82",
 				"versions": {
+					"8.0.1": {
+						"changelog": "Added:<ul><li>Debug mode<li>Hungarian language</ul>Improved:<ul><li>Password Generator<li>Password Imports<li>Design</ul>Fixed:<ul><li>Password Imports</ul>Updated:<ul><li>Languages<li>Manifest</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.0.1/Passky.Setup.8.0.1.exe"
+					},
 					"8.0.0": {
 						"changelog": "Added:<ul><li>Password entropy<li>Password hider<li>Animations<li>License system<li>Support for password deletion<li>Icons in input fields<li>Support for more languages<li>404 page</ul>Changed:<ul><li>AES to XChaCha20<li>SHA to Argon2id<li>Requirements are now more permissive</ul>Improved:<ul><li>Password search<li>Language system<li>Server picker<li>Pagination<li>Password generator<li>Content Security Policy<li>Dialog position<li>Search for mobile devices</ul>Updated:<ul><li>TailwindCSS<li>Languages</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.0.0/Passky.Setup.8.0.0.exe"
@@ -58,6 +62,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
 				"snapcraft": "https://snapcraft.io/passky",
 				"versions": {
+					"8.0.1": {
+						"changelog": "Added:<ul><li>Debug mode<li>Hungarian language</ul>Improved:<ul><li>Password Generator<li>Password Imports<li>Design</ul>Fixed:<ul><li>Password Imports</ul>Updated:<ul><li>Languages<li>Manifest</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v8.0.1"
+					},
 					"8.0.0": {
 						"changelog": "Added:<ul><li>Password entropy<li>Password hider<li>Animations<li>License system<li>Support for password deletion<li>Icons in input fields<li>Support for more languages<li>404 page</ul>Changed:<ul><li>AES to XChaCha20<li>SHA to Argon2id<li>Requirements are now more permissive</ul>Improved:<ul><li>Password search<li>Language system<li>Server picker<li>Pagination<li>Password generator<li>Content Security Policy<li>Dialog position<li>Search for mobile devices</ul>Updated:<ul><li>TailwindCSS<li>Languages<li>Electron</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/tag/v8.0.0"
@@ -84,6 +92,10 @@
 				"sourcecode": "https://github.com/Rabbit-Company/Passky-Desktop",
 				"issuetracker": "https://github.com/Rabbit-Company/Passky-Desktop/issues",
 				"versions": {
+					"8.0.1": {
+						"changelog": "Added:<ul><li>Debug mode<li>Hungarian language</ul>Improved:<ul><li>Password Generator<li>Password Imports<li>Design</ul>Fixed:<ul><li>Password Imports</ul>Updated:<ul><li>Languages<li>Manifest</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.0.1/passky-8.0.1.dmg"
+					},
 					"8.0.0": {
 						"changelog": "Added:<ul><li>Password entropy<li>Password hider<li>Animations<li>License system<li>Support for password deletion<li>Icons in input fields<li>Support for more languages<li>404 page</ul>Changed:<ul><li>AES to XChaCha20<li>SHA to Argon2id<li>Requirements are now more permissive</ul>Improved:<ul><li>Password search<li>Language system<li>Server picker<li>Pagination<li>Password generator<li>Content Security Policy<li>Dialog position<li>Search for mobile devices</ul>Updated:<ul><li>TailwindCSS<li>Languages</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.0.0/passky-8.0.0.dmg"
@@ -144,6 +156,10 @@
 				"operaaddons": "https://addons.opera.com/en/extensions/details/passky/",
 				"edgeaddons": "https://microsoftedge.microsoft.com/addons/detail/passky/cnbhnfmejoecfinfbgidmnlkgddaihpn",
 				"versions": {
+					"8.0.1": {
+						"changelog": "Added:<ul><li>Debug mode<li>Hungarian language</ul>Improved:<ul><li>Password Generator<li>Password Imports<li>Design</ul>Fixed:<ul><li>Password Imports</ul>Updated:<ul><li>Languages<li>Manifest</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v8.0.1/passky-8.0.1.zip"
+					},
 					"8.0.0": {
 						"changelog": "Added:<ul><li>Password entropy<li>Password hider<li>Animations<li>License system<li>Support for password deletion<li>Icons in input fields<li>Support for more languages<li>404 page</ul>Changed:<ul><li>AES to XChaCha20<li>SHA to Argon2id<li>Requirements are now more permissive</ul>Improved:<ul><li>Password search<li>Language system<li>Server picker<li>Pagination<li>Password generator<li>Content Security Policy<li>Dialog position<li>Search for mobile devices</ul>Updated:<ul><li>TailwindCSS<li>Languages</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Browser-Extension/releases/download/v8.0.0/passky-8.0.0.zip"
@@ -171,6 +187,10 @@
 				"issuetracker": "https://github.com/Rabbit-Company/Passky-Website/issues",
 				"website": "https://vault.passky.org",
 				"versions": {
+					"8.0.1": {
+						"changelog": "Added:<ul><li>Debug mode<li>Hungarian language</ul>Improved:<ul><li>Password Generator<li>Password Imports<li>Design</ul>Fixed:<ul><li>Password Imports</ul>Updated:<ul><li>Languages<li>Manifest</ul>",
+						"download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v8.0.1.zip"
+					},
 					"8.0.0": {
 						"changelog": "Added:<ul><li>Password entropy<li>Password hider<li>Animations<li>License system<li>Support for password deletion<li>Icons in input fields<li>Support for more languages<li>404 page</ul>Changed:<ul><li>AES to XChaCha20<li>SHA to Argon2id<li>Requirements are now more permissive</ul>Improved:<ul><li>Password search<li>Language system<li>Server picker<li>Pagination<li>Password generator<li>Content Security Policy<li>Dialog position<li>Search for mobile devices</ul>Updated:<ul><li>TailwindCSS<li>Languages</ul>",
 						"download": "https://github.com/Rabbit-Company/Passky-Website/archive/refs/tags/v8.0.0.zip"
